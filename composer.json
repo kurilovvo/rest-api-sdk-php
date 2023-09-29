@@ -1,14 +1,14 @@
 {
-    "name": "paypal/rest-api-sdk-php",
+    "name": "kurilovvo/rest-api-sdk-php",
     "description": "PayPal's PHP SDK for REST APIs",
     "keywords": ["paypal", "payments", "rest", "sdk"],
     "type": "library",
     "license": "Apache2",
-    "homepage": "https://github.com/paypal/rest-api-sdk-php",
+    "homepage": "https://github.com/kurilovvo/rest-api-sdk-php",
     "authors": [
         {
             "name": "PayPal",
-            "homepage": "https://github.com/paypal/rest-api-sdk-php/contributors"
+            "homepage": "https://github.com/kurilovvo/rest-api-sdk-php/contributors"
         }
     ],
     "require": {
